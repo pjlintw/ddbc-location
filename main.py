@@ -62,12 +62,6 @@ while exit_status is False:
 
 
 
-
-
-
-
-
-
 # python argparse_demo.py
 # if __name__ == '__main__':
 # 	print(location_args)
