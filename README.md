@@ -1,5 +1,9 @@
 # ddbc-location
-Get location data from DDBC
+API for accessing location data from DDBC
+
+* 人名規範資料庫
+* 地名規範資料庫
+* 時間規範資料庫
 
 自動爬取古典文籍地名資料
 
